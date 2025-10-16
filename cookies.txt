@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+w.tuybutky.com	TRUE	/dang-ky-app-5015a	FALSE	1999999999	LADI_FORM_SUBMIT	0
+w.tuybutky.com	TRUE	/dang-ky-app-5015a	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+w.tuybutky.com	TRUE	/dang-ky-app-5015a	FALSE	1999999999	LADI_PAGE_VIEW	1
+w.tuybutky.com	TRUE	/dang-ky-app-5015a	FALSE	1999999999	LADI_PAGE_VIEW_PATH	1
+w.tuybutky.com	TRUE	/mb	FALSE	1999999999	LADI_FORM_SUBMIT	0
+w.tuybutky.com	TRUE	/mb	FALSE	1999999999	LADI_FORM_SUBMIT_PATH	0
+w.tuybutky.com	TRUE	/mb	FALSE	1999999999	LADI_PAGE_VIEW	4
+w.tuybutky.com	TRUE	/mb	FALSE	1999999999	LADI_PAGE_VIEW_PATH	4
+w.tuybutky.com	TRUE	/	FALSE	1999999999	LADI_CLIENT_ID	6538ae34-94f6-4d3f-417e-56a6dd64c21c
+w.tuybutky.com	TRUE	/	FALSE	1999999999	LADI_DNS_CHECK	2025-10-16 17:34:06.12748055 +0000 UTC m=+2038382.932599886"
+
